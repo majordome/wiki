@@ -13,13 +13,13 @@ Let's Role permet à chacun de créer des systèmes de jeu.
 Vous êtes propriétaire des systèmes que vous créez, et pouvez choisir la licence que vous souhaitez.
 
 # Qu'est-ce qu'un système ?
-Il s'agit avant tout de la feuille de personnage utilisé par les joueurs, mais un système inclu aussi des crafts (des PNJ, Monstres, Armes).
+Il s'agit principalement de la feuille de personnage utilisée par les joueurs, mais un système inclut aussi des créations (ou *"crafts"*): PNJ, Monstres, Armes.
 
 # Comment créer un nouveau système ?
 Sur le site, cliquez sur votre pseudonyme en haut à droite, puis sur *My Systems*. Cliquez ensuite sur *Create a new System* puis complétez le formulaire.
 
 # Partager votre système
-Faire un système génial c'est une chose, mais c'est mieux si les gens peuvent l'utiliser ! Dans votre système, un encard *Share* vous donne un lien que vous pouvez partager avec d'autres afin qu'ils puisse jouer avec votre système.
+Concevoir un système génial c'est bien, mais c'est mieux si les gens peuvent l'utiliser ! Dans votre système, un encart *Share* affiche un lien que vous pouvez partager avec d'autres afin qu'ils puissent jouer avec votre système.
 
 # Créer un système
 La création de système est un sujet complexe, qui a [sa propre documentation ici](/en/system-builder) (en anglais). Amusez-vous bien !
