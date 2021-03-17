@@ -8,7 +8,7 @@ editor: undefined
 ---
 
 # Créer votre table
-Sur le site, allez dans l'onglet *My Tables*, puis cliquez sur *Create a new Table*. Si vous ne trouvez pas le jeu auquel vous souhaitez jouer, jetez un coup d'oeil aux [créations de la communauté](https://lets-role.wiki/fr/system-list) avant.
+Sur le site, allez dans l'onglet *My Tables*, puis cliquez sur *Create a new Table*. Si vous ne trouvez pas le jeu auquel vous souhaitez jouer, jetez un oeil aux [créations de la communauté](https://lets-role.wiki/fr/system-list) avant.
 
 # Inviter vos joueurs & joueuses
 Une fois votre table créée, vous pouvez cliquer sur son titre dans la liste de vos tables pour accéder à plus d'informations. Entre autres, vous pourrez y trouver un encart *Invite friends*, comprenant un lien que vous pourrez communiquer aux joueur(se)s que vous souhaitez inviter. En cliquant sur le lien, vos ami(e)s pourront rejoindre votre table.
