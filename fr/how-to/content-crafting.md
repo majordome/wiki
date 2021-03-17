@@ -16,7 +16,7 @@ La gestion et la création de *"crafts"* se fait via le dock **Content Crafting*
 En bas du dock, vous pouvez choisir quel type de *"craft"* vous souhaitez créer. Ensuite, cliquez simplement sur la petite icône de validation, et une fiche vierge pour votre nouveau *"craft"* s'ouvrira !
 
 # Général
-Les options de création de craft disponibles changent en fonction du [système](/fr/how-to/start/gm), c’est à dire du jeu choisi pour la table. Les options pour *Dungeons & Dragons 5* ne sont pas les mêmes que celles pour un autre jeu.
+Les options de création de *"craft"* disponibles changent en fonction du [système](/fr/how-to/start/gm), c’est à dire du jeu choisi pour la table. Les options pour *Dungeons & Dragons 5* ne sont pas les mêmes que celles pour un autre jeu.
 
 # Contenu avec Pions (*"Token"*)
 Certains crafts, comme les PNJ ou les monstres, peuvent avoir des [Pions(tokens)](/fr/how-to/token) associés. Ces *"crafts"* sont signalés par une icône dans la liste de vos *"crafts"*. Glissez-Déplacez simplement le *"craft"* sur la scène pour afficher son pion, qui se comportera alors comme n’importe quel autre pion.
