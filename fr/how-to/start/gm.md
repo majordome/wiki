@@ -13,7 +13,7 @@ Sur le site, allez dans l'onglet *My Tables*, puis cliquez sur *Create a new Tab
 # Inviter vos joueurs & joueuses
 Une fois votre table créée, vous pouvez cliquer sur son titre dans la liste de vos tables pour accéder à plus d'informations. Entre autres, vous pourrez y trouver un encart *Invite friends*, comprenant un lien que vous pourrez communiquer aux joueur(se)s que vous souhaitez inviter. En cliquant sur le lien, vos ami(e)s pourront rejoindre votre table.
 
-# Votre premier scène
+# Votre premiere scène
 Pour rejoindre votre table en tant que MJ, cliquez sur *Play Now* dans la liste des tables, puis sur *Join as the Game Master*.
 
 ![first-scene.png](/medias/first-scene.png)
